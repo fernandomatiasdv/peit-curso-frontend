@@ -5,6 +5,12 @@ Este curso está dirigido a todas aquellas personas que quieran trabajar o apren
 
 El curso arrancará de cero y lo importante es ir aprendiendo con calma, respetando los tiempos de cada uno y desafiando a quienes se sientan  mas avanzados.
 Para esto tendremos 8 horas semanales, 3 de los lunes, 3 los miercoles y 2 los sabados.
+Los días Lunes y Miércoles se cursará de 9 a 12 horas.
+Los sabados de 10 a 12 horas.
+
+Las clases de la primera división arrancan el 7 de diciembre.
+
+Sino podes presenciar la clase (o si pero necesitas ver la clase nuevamente para reforzar el contenido) te comento que las mismas quedarán grabadas en una plataforma y podrás hacerme todas las preguntas que necesites por slack.
 
 Por cada módulo tendremos al menos un proyecto integrador y todas las clases te llevarás tarea para consolidar los conocimientos.
 
@@ -13,54 +19,52 @@ El costo es de $6000 mensuales, abonado dentro de los primeros días. Se puede h
 Los temas a ver serán:
 
 Introducción a JS:
-Nociones teóricas sobre el lenguaje.
-Lenguajes interpretados y compilados.
-El uso de la consola.
-Variables y constantes, y su ámbito.
-Arrays.
-Null y undefined.
-Diferentes tipos de comillas y sus usos.
-Condicionales y bucles.
-Funciones y funciones flecha
-Funciones matemáticas
-Funciones de cadena.
-Objetos y clases.
-Destructurando y uniendo objetos
-Spread operator
-funciones de selección y filtro de datos.
-Selectores
-El uso del =, == e ===
-El DOM
-Import y export.
-Toma de datos externos.
-Callbacks y promesas.
-Sincronismo en peticiones: Async/await.
+- Nociones teóricas sobre el lenguaje.
+- Lenguajes interpretados y compilados.
+- El uso de la consola.
+- Variables y constantes, y su ámbito.
+- Arrays.
+- Null y undefined.
+- Diferentes tipos de comillas y sus usos.
+- Condicionales y bucles.
+- Funciones y funciones flecha
+- Funciones matemáticas
+- Funciones de cadena.
+- Objetos y clases.
+- Destructurando y uniendo objetos
+- Spread operator
+- funciones de selección y filtro de datos.
+- Selectores
+- El uso del =, == e ===
+- El DOM
+- Import y export.
+- Toma de datos externos.
+- Callbacks y promesas.
+- Sincronismo en peticiones: Async/await.
 
 nodeJS/Express:
-NPM 
-packege.json y el uso de librerias externas
-Require
-Crearemos un server.
-Path
-Parseo de JSON
-Puertos
-Estados de la solicitudes.
-Envio de datos a la consola.
-Envio de datos a la pantalla.
-Obtenemos y alojamos archivos locales.
-Enrutamiento.
-Handlebars y sistemas markdown.
-API: concepto y métodos
-Consumiremos y generaremos APIs.
-CORS.
-WebScrapping
-Sockets
-Temporizadores.
+- NPM 
+- packege.json y el uso de librerias externas
+- Require
+- Crearemos un server.
+- Path
+- Parseo de JSON
+- Puertos
+- Estados de la solicitudes.
+- Envio de datos a la consola.
+- Envio de datos a la pantalla.
+- Obtenemos y alojamos archivos locales.
+- Enrutamiento.
+- Handlebars y sistemas markdown.
+- API: concepto y métodos
+- Consumiremos y generaremos APIs.
+- CORS.
+- Sockets
 
 Base de datos:
-Teoría.
-MySQL: Crearemos una base de datos
-Qué son los datos y sus tipos.
+- Teoría.
+- MySQL: Crearemos una base de datos
+- Qué son los datos y sus tipos.
 - Crear, leer, insertar y actualizar datos de Tablas (que tambien crearemos, actualizaremos y borraremos)
 - Veremos que es un dato y cuáles están permitidos; El valor NULL
 - Que es un índice, una clave foránea, una única y una primaria (y en que se diferencian)
@@ -73,34 +77,34 @@ Qué son los datos y sus tipos.
 - Métodos de ordenamiento y limitación de datos.
 
 ReactJS:
-JSX
-Virtual DOM
-create-react-app
-La estructura básica de carpetas y archivos
-DOM virtual.
-Funciones y su diferencia con las clases.
-Componentes
-Props y proptypes
-Ciclos de vida del componente
-This y bind.
-Hooks
-useState y useEffect
-Estilos customizados y diseño responsivo.
-Promesas.
-Rutas.
-Manejo de errores.
-Context API
-Server side rendering con next
-Librerias: Axios, Formik, Skeleton y MaterialUI.
+- JSX
+- Virtual DOM
+- create-react-app
+- La estructura básica de carpetas y archivos
+- DOM virtual.
+- Funciones y su diferencia con las clases.
+- Componentes
+- Props y proptypes
+- Ciclos de vida del componente
+- This y bind.
+- Hooks
+- useState y useEffect
+- Estilos customizados y diseño responsivo.
+- Promesas.
+- Rutas.
+- Manejo de errores.
+- Context API
+- Server side rendering con next
+- Librerias: Axios, Formik, Skeleton y MaterialUI.
 
 GitHub: 
-readme.md
-Repositorios
-branches
-Fases del desarrollo
-Staging
-Commit
-Push
-pull request
-clonación.
+- readme.md
+- Repositorios
+- branches
+- Fases del desarrollo
+- Staging
+- Commit
+- Push
+- pull request
+- clonación.
 
