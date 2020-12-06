@@ -18,6 +18,48 @@ El costo es de $6000 mensuales, abonado dentro de los primeros días. Se puede h
 
 Los temas a ver serán:
 
+Introducción.
+- Qué es una página web
+- Arquitectura cliente/servidor
+- Sistema de DNS e IP.
+- Tecnologías web.
+
+Maquetado en HTML:
+- HTML
+- Qué son los Tags
+- Partes de una página web.
+- Semántica
+- Títulos
+- Párrafos
+- Imágenes y videos.
+- Hipervínculos
+- Span
+- Divs
+- Tablas
+- Formularios
+
+CSS:
+- Qué es y para qué sirve.
+- Colores.
+- Estilos de marcado
+- Fuentes, tipos y estilos de letra.
+- Márgenes y paddings
+- Flexbox
+- Grid
+- Media queries.
+- Animaciones y transiciones.
+
+GitHub: 
+- readme.md
+- Repositorios
+- branches
+- Fases del desarrollo
+- Staging
+- Commit
+- Push
+- pull request
+- clonación.
+
 Introducción a JS:
 - Nociones teóricas sobre el lenguaje.
 - Lenguajes interpretados y compilados.
@@ -58,12 +100,11 @@ nodeJS/Express:
 - Handlebars y sistemas markdown.
 - API: concepto y métodos
 - Consumiremos y generaremos APIs.
-- CORS.
 - Sockets
 
 Base de datos:
 - Teoría.
-- MySQL: Crearemos una base de datos
+- MariaDB: Crearemos una base de datos
 - Qué son los datos y sus tipos.
 - Crear, leer, insertar y actualizar datos de Tablas (que tambien crearemos, actualizaremos y borraremos)
 - Veremos que es un dato y cuáles están permitidos; El valor NULL
@@ -97,16 +138,6 @@ ReactJS:
 - Server side rendering con next
 - Librerias: Axios, Formik, Skeleton y MaterialUI.
 
-GitHub: 
-- readme.md
-- Repositorios
-- branches
-- Fases del desarrollo
-- Staging
-- Commit
-- Push
-- pull request
-- clonación.
 
 Si te interesa, envíame un mail a javascriptargentina@gmail.com
 Saludos!
