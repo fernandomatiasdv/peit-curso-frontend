@@ -4,17 +4,15 @@
 Este curso está dirigido a todas aquellas personas que quieran trabajar o aprender a desarrollar páginas web dinámicos, consumiendo datos desde nuestra propia base de datos y que puedan ser usadas desde cualquier dispositivo (celular, tablet, PC/notebook).
 
 El curso arrancará de cero y lo importante es ir aprendiendo con calma, respetando los tiempos de cada uno y desafiando a quienes se sientan  mas avanzados.
-Para esto tendremos 8 horas semanales, 3 de los lunes, 3 los miercoles y 2 los sabados.
-Los días Lunes y Miércoles se cursará de 9 a 12 horas.
-Los sabados de 10 a 12 horas.
+Para esto tendremos 8 horas semanales, 3 de los martes, 3 los jueves y 2 los sabados.
+Los días Lunes y Miércoles se cursará de 19 a 22 horas.
+Los sabados aún habría que definirlo.
 
-Las clases de la primera división arrancan el 7 de diciembre.
+Las clases arrancarán el 15 de febrero.
 
-Sino podes presenciar la clase (o si pero necesitas ver la clase nuevamente para reforzar el contenido) te comento que las mismas quedarán grabadas en una plataforma y podrás hacerme todas las preguntas que necesites por slack.
+Sino podes presenciar la clase (o si pero necesitas ver la clase nuevamente para reforzar el contenido) te comento que las mismas quedarán grabadas en una plataforma y podrás hacerme todas las preguntas que necesites por Discord.
 
-Por cada módulo tendremos al menos un proyecto integrador y todas las clases te llevarás tarea para consolidar los conocimientos.
-
-El costo es de $6000 mensuales, abonado dentro de los primeros días. Se puede hacer por transferencia bancaria o mercado pago.
+El costo es de $7500 mensuales. Se puede hacer por transferencia bancaria o mercado pago.
 
 Los temas a ver serán:
 
@@ -139,5 +137,5 @@ ReactJS:
 - Librerias: Axios, Formik, Skeleton y MaterialUI.
 
 
-Si te interesa, envíame un mail a javascriptargentina@gmail.com
+Si te interesa, envíame un mail a fernandomatiasdv@gmail.com
 Saludos!
