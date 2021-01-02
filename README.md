@@ -1,28 +1,37 @@
 # Primer Empleo IT
 ## Curso Front End Dev.
 
-Este curso está dirigido a todas aquellas personas que quieran trabajar o aprender a desarrollar páginas web dinámicos, consumiendo datos desde nuestra propia base de datos y que puedan ser usadas desde cualquier dispositivo (celular, tablet, PC/notebook).
+### A quién va dirigido.
+A todas aquellas personas que quieran trabajar o aprender a desarrollar páginas web dinámicas, consumiendo datos desde nuestra propia base de datos y que puedan ser usadas desde cualquier dispositivo (celular, tablet, PC/notebook).
 
-El curso arrancará de cero y lo importante es ir aprendiendo con calma, respetando los tiempos de cada uno y desafiando a quienes se sientan  mas avanzados.
-Para esto tendremos 8 horas semanales, 3 de los martes, 3 los jueves y 2 los sabados.
-Los días Lunes y Miércoles se cursará de 19 a 22 horas.
-Los sabados aún habría que definirlo.
+### Prerequisitos.
+Que sepas utilizar y poseas una casilla de mail y te crees una cuenta en discord. 
+Que tengas una conexión a internet estable.
 
-Las clases arrancarán el 15 de febrero.
+### Filosofía del curso.
+El curso arrancará de cero y lo importante es ir aprendiendo con calma, respetando los tiempos de cada uno y desafiando a quienes se sientan  mas avanzados.<br>
+Para esto tendremos 7 horas semanales, 2 horas y media de los martes, 2 horas y media los jueves y 2 los sabados, éstas dos últimas irán abocadas a sacarnos las dudas que surgieron en la semana y aprovechando el espacio para avanzar con proyectos que afiancen los conocimientos.<br>
+Los días Martes y Jueves se cursará de 19.30 a 22 horas.<br>
+Los sabados por la mañana.<br><br>
 
+### Fechas de inicio y fin de cursada
+Las clases arrancarán el martes 02 de febrero de 2021 y finalizarán el jueves 29 de Julio de 2021.
+
+### Clases en vivo y grabadas.
 Sino podes presenciar la clase (o si pero necesitas ver la clase nuevamente para reforzar el contenido) te comento que las mismas quedarán grabadas en una plataforma y podrás hacerme todas las preguntas que necesites por Discord.
 
-El costo es de $7500 mensuales. Se puede hacer por transferencia bancaria o mercado pago.
+### Costo y promociones.
+El costo es de $7500 mensuales. Se puede hacer por transferencia bancaria o mercado pago.<br>
+En caso de abonar 
 
-Los temas a ver serán:
-
-Introducción.
+## Temario
+### Introducción.
 - Qué es una página web
 - Arquitectura cliente/servidor
 - Sistema de DNS e IP.
 - Tecnologías web.
 
-Maquetado en HTML:
+### Maquetado en HTML.
 - HTML
 - Qué son los Tags
 - Partes de una página web.
@@ -35,19 +44,29 @@ Maquetado en HTML:
 - Divs
 - Tablas
 - Formularios
+- Rutas relativas y estáticas
 
-CSS:
+### CSS.
 - Qué es y para qué sirve.
 - Colores.
 - Estilos de marcado
 - Fuentes, tipos y estilos de letra.
+- Modelo de caja
 - Márgenes y paddings
+- Animaciones y transiciones.
+
+### Diseño responsivo.
 - Flexbox
 - Grid
 - Media queries.
-- Animaciones y transiciones.
 
-GitHub: 
+### SASS
+- Instalación
+- Variables
+- Import
+- Mixin
+
+### GitHub.
 - readme.md
 - Repositorios
 - branches
@@ -58,7 +77,7 @@ GitHub:
 - pull request
 - clonación.
 
-Introducción a JS:
+### Introducción a JS.
 - Nociones teóricas sobre el lenguaje.
 - Lenguajes interpretados y compilados.
 - El uso de la consola.
@@ -82,7 +101,7 @@ Introducción a JS:
 - Callbacks y promesas.
 - Sincronismo en peticiones: Async/await.
 
-nodeJS/Express:
+### NodeJS/Express.
 - NPM 
 - packege.json y el uso de librerias externas
 - Require
@@ -96,14 +115,13 @@ nodeJS/Express:
 - Obtenemos y alojamos archivos locales.
 - Enrutamiento.
 - Handlebars y sistemas markdown.
-- API: concepto y métodos
+- API Rest: concepto y métodos
 - Consumiremos y generaremos APIs.
 - Sockets
 
-Base de datos:
-- Teoría.
+### Base de datos.
+- Teoría: Qué son los datos y sus tipos, las tablas, vistas, procedimientos almacenados y las bases de datos.
 - MariaDB: Crearemos una base de datos
-- Qué son los datos y sus tipos.
 - Crear, leer, insertar y actualizar datos de Tablas (que tambien crearemos, actualizaremos y borraremos)
 - Veremos que es un dato y cuáles están permitidos; El valor NULL
 - Que es un índice, una clave foránea, una única y una primaria (y en que se diferencian)
@@ -115,7 +133,7 @@ Base de datos:
 - funciones matemáticas
 - Métodos de ordenamiento y limitación de datos.
 
-ReactJS:
+### ReactJS.
 - JSX
 - Virtual DOM
 - create-react-app
@@ -137,5 +155,5 @@ ReactJS:
 - Librerias: Axios, Formik, Skeleton y MaterialUI.
 
 
-Si te interesa, envíame un mail a fernandomatiasdv@gmail.com
+Si te interesa, envíame un mail a <strong>fernandomatiasdv@gmail.com</strong><br>
 Saludos!
