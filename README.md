@@ -22,7 +22,7 @@ Sino podes presenciar la clase (o si pero necesitas ver la clase nuevamente para
 
 ### Costo y promociones.
 El costo es de $7500 mensuales. Se puede hacer por transferencia bancaria o mercado pago.<br>
-En caso de abonar 
+En caso de abonar el curso de manera íntegra (en un pago) se te bonificará una cuota entera, quedando así el valor del curso completo en $37.500.
 
 ## Temario
 ### Introducción.
